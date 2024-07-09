@@ -1,0 +1,20 @@
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\Ranie Gobres\Desktop\New folder\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe.config
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.exe
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\bin\Debug\StudentInfoApplication.pdb
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.AssemblyReference.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.frmStudentInfo.resources
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.Properties.Resources.resources
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.GenerateResource.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.csproj.CoreCompileInputs.cache
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.exe
+C:\Users\Ranie Gobres\Desktop\Integrative\StudentInfoApplication\StudentInfoApplication\obj\Debug\StudentInfoApplication.pdb
